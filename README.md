@@ -32,6 +32,6 @@ This Python script uses the YouTube Data API to search for videos related to cou
 
 ## Disclaimer
 
-This script is provided as-is without any warranties. Use it responsibly and ensure compliance with YouTube's API terms of service.
+This script is provided as-is without any warranties. Use it responsibly and ensure compliance with [YouTube's API](https://developers.google.com/youtube/v3/getting-started?hl=fr) terms of service.
 
 ---
